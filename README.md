@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Gupta</h1>
-<h3 align="center">I'm a student of Watumull Institute of Electronics Engineering and Computer Technology</h3>
+<h3 align="center">Technology Integrator</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas0207&label=Profile%20views&color=0e75b6&style=flat" alt="Tejas Gupta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas0207" alt="Tejas Gupta" /></a> </p>
